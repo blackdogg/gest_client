@@ -1,0 +1,7 @@
+cg_manage_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: CGManageBundle:Default:index }
+
+index:
+    pattern: /
+    defaults: { _controller: CGManageBundle:Home:index }
