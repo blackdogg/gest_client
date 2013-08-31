@@ -214,6 +214,8 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 /app/
+/app/cache/
+/nbproject/
 /vendor/
 /UPGRADE-2.2.md
 /composer.json
